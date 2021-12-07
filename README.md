@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @buffakali
+- 👋 Hi, I’m @buffakali (actually she is fine this patch)
 - 👀 I’m interested in becoming a data analyst
 - 🌱 I’m currently learning python/SQL etc.
 
